@@ -1,0 +1,1 @@
+rootProject.name = "dev.jimboslice.pnp-server"
